@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Physical Health</key>
+	<array>
+		<string>Avoid eating an unhealthy snack</string>
+		<string>Eat a fruit for snack</string>
+		<string>Walk your dog</string>
+		<string>Use the stairs instead of the elevator</string>
+		<string>Search for a sport you like</string>
+	</array>
+	<key>Mental Health</key>
+	<array>
+		<string>Do an easy sudok</string>
+		<string>Read a chapter of a book</string>
+		<string>Do a crossword</string>
+		<string>Meditate for a minute</string>
+		<string>Learn the lyrics of a song</string>
+	</array>
+	<key>Productivity &amp; Work</key>
+	<array>
+		<string>Talk with your boss</string>
+		<string>Turn off your cellphone for 15 minutes</string>
+		<string>Arrive on time</string>
+		<string>Start something you have pending</string>
+		<string>Ask for advices</string>
+	</array>
+	<key>Love, Family &amp; Friends</key>
+	<array>
+		<string>Tell somebody you apreciate them</string>
+		<string>Avoid swering</string>
+		<string>Invite people over</string>
+		<string>Go to a place you have never been before</string>
+		<string>Greet somebofy you dont know</string>
+	</array>
+	<key>Community &amp; Environment</key>
+	<array>
+		<string>Buy a flask</string>
+		<string>Ask for paper bags when groceries shopping</string>
+		<string>Go to a neighbor meeting</string>
+		<string>Recycle</string>
+		<string>Pick up trash you see in the street</string>
+	</array>
+	<key>Personal Finances</key>
+	<array>
+		<string>Cancel credit cards you dont use</string>
+		<string>Set a budget </string>
+		<string>Use a swear jar</string>
+		<string>Avoid buying things you dont need</string>
+		<string>Get a personal finances app</string>
+	</array>
+</dict>
+</plist>

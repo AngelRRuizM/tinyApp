@@ -10,10 +10,15 @@
 		FB1D0CD020BC6547008CB3F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1D0CCF20BC6547008CB3F1 /* AppDelegate.swift */; };
 		FB1D0CD220BC6547008CB3F1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1D0CD120BC6547008CB3F1 /* ViewController.swift */; };
 		FB1D0CD520BC6547008CB3F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB1D0CD320BC6547008CB3F1 /* Main.storyboard */; };
-		FB1D0CD720BC6548008CB3F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB1D0CD620BC6548008CB3F1 /* Assets.xcassets */; };
 		FB1D0CDA20BC6548008CB3F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB1D0CD820BC6548008CB3F1 /* LaunchScreen.storyboard */; };
 		FB1D0CE520BC6548008CB3F1 /* TinyAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1D0CE420BC6548008CB3F1 /* TinyAppTests.swift */; };
 		FB1D0CF020BC6548008CB3F1 /* TinyAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1D0CEF20BC6548008CB3F1 /* TinyAppUITests.swift */; };
+		FB1D0CFE20BC6F0A008CB3F1 /* Habits.plist in Resources */ = {isa = PBXBuildFile; fileRef = FB1D0CFD20BC6F0A008CB3F1 /* Habits.plist */; };
+		FB1D0D0020BC71DD008CB3F1 /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1D0CFF20BC71DD008CB3F1 /* ListTableViewController.swift */; };
+		FB6EE4C920BF142800A64787 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB6EE4C820BF142800A64787 /* Assets.xcassets */; };
+		FBC53D4720BDB26400B91207 /* HabitTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC53D4620BDB26400B91207 /* HabitTableViewCell.swift */; };
+		FBE1F9F420C06338001AA3F9 /* RoulleteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBE1F9F320C06338001AA3F9 /* RoulleteViewController.swift */; };
+		FBE1F9F620C0652A001AA3F9 /* Recomended.plist in Resources */ = {isa = PBXBuildFile; fileRef = FBE1F9F520C0652A001AA3F9 /* Recomended.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +43,6 @@
 		FB1D0CCF20BC6547008CB3F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FB1D0CD120BC6547008CB3F1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FB1D0CD420BC6547008CB3F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FB1D0CD620BC6548008CB3F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB1D0CD920BC6548008CB3F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB1D0CDB20BC6548008CB3F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB1D0CE020BC6548008CB3F1 /* TinyAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TinyAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -47,6 +51,12 @@
 		FB1D0CEB20BC6548008CB3F1 /* TinyAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TinyAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB1D0CEF20BC6548008CB3F1 /* TinyAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinyAppUITests.swift; sourceTree = "<group>"; };
 		FB1D0CF120BC6548008CB3F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB1D0CFD20BC6F0A008CB3F1 /* Habits.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Habits.plist; sourceTree = "<group>"; };
+		FB1D0CFF20BC71DD008CB3F1 /* ListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
+		FB6EE4C820BF142800A64787 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FBC53D4620BDB26400B91207 /* HabitTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitTableViewCell.swift; sourceTree = "<group>"; };
+		FBE1F9F320C06338001AA3F9 /* RoulleteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoulleteViewController.swift; sourceTree = "<group>"; };
+		FBE1F9F520C0652A001AA3F9 /* Recomended.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Recomended.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +107,17 @@
 		FB1D0CCE20BC6547008CB3F1 /* TinyApp */ = {
 			isa = PBXGroup;
 			children = (
+				FB6EE4C820BF142800A64787 /* Assets.xcassets */,
 				FB1D0CCF20BC6547008CB3F1 /* AppDelegate.swift */,
 				FB1D0CD120BC6547008CB3F1 /* ViewController.swift */,
 				FB1D0CD320BC6547008CB3F1 /* Main.storyboard */,
-				FB1D0CD620BC6548008CB3F1 /* Assets.xcassets */,
 				FB1D0CD820BC6548008CB3F1 /* LaunchScreen.storyboard */,
 				FB1D0CDB20BC6548008CB3F1 /* Info.plist */,
+				FB1D0CFD20BC6F0A008CB3F1 /* Habits.plist */,
+				FB1D0CFF20BC71DD008CB3F1 /* ListTableViewController.swift */,
+				FBC53D4620BDB26400B91207 /* HabitTableViewCell.swift */,
+				FBE1F9F320C06338001AA3F9 /* RoulleteViewController.swift */,
+				FBE1F9F520C0652A001AA3F9 /* Recomended.plist */,
 			);
 			path = TinyApp;
 			sourceTree = "<group>";
@@ -230,7 +245,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB1D0CDA20BC6548008CB3F1 /* LaunchScreen.storyboard in Resources */,
-				FB1D0CD720BC6548008CB3F1 /* Assets.xcassets in Resources */,
+				FB1D0CFE20BC6F0A008CB3F1 /* Habits.plist in Resources */,
+				FB6EE4C920BF142800A64787 /* Assets.xcassets in Resources */,
+				FBE1F9F620C0652A001AA3F9 /* Recomended.plist in Resources */,
 				FB1D0CD520BC6547008CB3F1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,7 +273,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB1D0D0020BC71DD008CB3F1 /* ListTableViewController.swift in Sources */,
 				FB1D0CD220BC6547008CB3F1 /* ViewController.swift in Sources */,
+				FBE1F9F420C06338001AA3F9 /* RoulleteViewController.swift in Sources */,
+				FBC53D4720BDB26400B91207 /* HabitTableViewCell.swift in Sources */,
 				FB1D0CD020BC6547008CB3F1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -431,12 +451,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S43QRZH5C6;
 				INFOPLIST_FILE = TinyApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = a.TinyApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "-20896";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -448,12 +470,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = S43QRZH5C6;
 				INFOPLIST_FILE = TinyApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = a.TinyApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "-20896";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

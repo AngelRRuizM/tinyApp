@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Physical Health</key>
+	<array>
+		<string>Drink a glass of water first thing in the morning</string>
+		<string>Park as far away as you can from the entrance</string>
+	</array>
+	<key>Mental Health</key>
+	<array>
+		<string>Ask open-ended questions</string>
+		<string>Write down everything on your mind before going to bed </string>
+	</array>
+	<key>Productivity &amp; Work</key>
+	<array>
+		<string>Spend 15 minutes at the end of the week on a quick check up</string>
+		<string>Have a to-do list for the day and update it first thing in the morning</string>
+	</array>
+	<key>Love, Family &amp; Friends</key>
+	<array>
+		<string>Check in with a frind or sibling every day</string>
+		<string>Pause before you answer to people</string>
+	</array>
+	<key>Community &amp; Environment</key>
+	<array>
+		<string>Stop and say hi to your neighbor</string>
+		<string>Keep ypur bike out where you can see it</string>
+	</array>
+	<key>Personal Finances</key>
+	<array>
+		<string>Dont buy a coffe</string>
+		<string>Leave your credit card home when window shopping</string>
+	</array>
+</dict>
+</plist>
